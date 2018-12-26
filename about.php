@@ -30,128 +30,125 @@
 						</div>
 					</div>
 				</section>
-				<section class="kopa-area kopa-area-20">
+				<section class="kopa-area kopa-area-20 about-matoshri">
 					<div class="container">
 						<div class="widget kopa-widget-course_info">
 							<div class="widget-content module-course_info-01">
 								<div class="row">
 									<div class="col-lg-3 col-md-4 col-sm-12 col-xs-12">
 										<ul class="left-nav">
-										    <li class="active">
-										    	<a href="#">
-										    		<i class="fa fa-user-plus"></i>
-										    		ABOUT UNIVERSITY
+										    <li class="active" data-tab="tab-1">
+										    	<a href="javascript:void(0);">
+										    		About Matoshri
 										    	</a>
 										    </li>
-										    <li>
-										    	<a href="#">
-										    		About our school
-										    	</a>
-										    </li>
-										    <li>
-										    	<a href="#">
-										    		Meet our teachers
-										    	</a>
-										    </li>
-										    <li>
-										    	<a href="#">
-										    		Transport
-										    	</a>
-										    </li>
-										    <li>
-										    	<a href="#">
-										    		Athletics
-										    	</a>
-										    </li>
-										    <li>
-										    	<a href="#">
-										    		Cafeteria
-										    	</a>
-										    </li>
-										    <li>
-										    	<a href="#">
-										    		Alumni
-										    	</a>
-										    </li>
-										    <li>
-										    	<a href="#">
-										    		Cafeteria
+										    <li data-tab="tab-2">
+										    	<a href="javascript:void(0);">
+										    		Principal Message
 										    	</a>
 										    </li>
 										</ul>
 									</div>
 									<div class="col-lg-9 col-md-8 col-sm-12 col-xs-12">
 										<div class="right-content">
-											
+											<div class="tab-1">
 											<div class="course-author">
 												<div class="thumb">
 													<img src="images/testimonial/6.jpg" alt="">
 												</div>
 												<div class="content">
-													<h4>Marc hemeon</h4>
-													<span>Creator of offscreen magazine</span>
+													<h4>Shri Shyam M. Umalkar</h4>
+													<span>Founder of Matoshri Education Society</span>
 													<div class="text">
 														<i class="fa fa-quote-left"></i>
-														<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like.</p>
-														<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using .</p>
+														<p>There was no Pharmacy College in Mehkar Tahsil of Buldhana District of Maharashtra till 2006 and Shri Shyam M. Umalkar, Founder of Matoshri Education Society, realising the need for training the students in Pharmaceutical Sciences established College of Pharmacy in 2006. Thus this college is the pioneering pharmacy institute in this region. </p>
+														<p>With a person like Shri. Bhushan M. Minase who is a very dynamic man with a great academic commitment and orientation at the helm of affairs, as its Secretary for 12 years, this College has now come to be known as one of the best Pharmacy Colleges in the region for its academic excellence. </p>
+														<p>
+															The College has been granted approval by the All India Council for Technical Education, New Delhi, which is the apex body controlling technical and professional education in the country. 
+
+														</p>
+														<p>
+															<strong>The college is approved by Pharmacy council of India.
+															</strong>
+														</p>
 													</div>
 												</div>
 											</div>
 											<div class="about-us">
-												<h3 class="widget-title style-06">About Us</h3>
+												<h3 class="widget-title style-06">From the President Desk</h3>
 												<div class="content">
-													<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore maiqua. It Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis auteo irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut on fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolor ipsum quia dolor sit amet, consectetur, adipisci velit. sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
-													<div class="kopa-gallery-slider">
-														<div class="item">
-															<img src="images/gallery/12.jpg" alt="">
-														</div>
-														<div class="item">
-															<img src="images/gallery/13.jpg" alt="">
-														</div>
-														<div class="item">
-															<img src="images/gallery/14.jpg" alt="">
-														</div>
-														<div class="item">
-															<img src="images/gallery/15.jpg" alt="">
-														</div>
-														<div class="item">
-															<img src="images/gallery/12.jpg" alt="">
-														</div>
-														<div class="item">
-															<img src="images/gallery/13.jpg" alt="">
-														</div>
-														<div class="item">
-															<img src="images/gallery/14.jpg" alt="">
-														</div>
-														<div class="item">
-															<img src="images/gallery/15.jpg" alt="">
-														</div>
-													</div>
-													<h4>Mission & Purpose</h4>
-													<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore maiqua. It Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis auteo irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
-													<ul>
-														<li>
-															<i class="fa fa-check-circle"></i>
-															Ut enim ad minim veniam, quis nostu to the end quis nostu to the end.
-														</li>
-														<li>
-															<i class="fa fa-check-circle"></i>
-															Nisi ut aliquip ex ea commodo consequat. Quis nostu to the end
-														</li>
-														<li>
-															<i class="fa fa-check-circle"></i>
-															Duis aute iru dolor in reprehenderit edng otui. Ex ea commodo cons.
-														</li>
-													</ul>
+													<p>To develop Matoshri Education Society’s College of Pharmacy into a vibrant & an exemplary education institution, where student are nurtured and encouraged to achieve their ultimate potential high quality standards of teaching and learning in a caring environment is the very heart of our purpose in which significant emphasis is placed on individual students achievement and the celebration of success. Striving for excellence is our motto.</p>
+												</div>
+											</div>
+											<!-- One close -->
+											
+											<div class="about-us">
+												<h3 class="widget-title style-06">From the Secretary Desk</h3>
+												<div class="content">
+													<p>We are committed to be an exceptional school with a difference. The scholars of our college will be cognizant, sensitive, reflective and participative individuals who, take pride in themselves and the nation, will impact and influence a changing society with confidence and creativity. The institute is committed to provide a challenging, enriching and purposeful learning environment on a sustained basis in the belief that this engages students in maximum learning.</p>
+												</div>
+											</div>
+											<!-- Second Close -->
+											
+											<div class="about-us">
+												<div class="content">
+													
 													<div class="quote">
 														<i class="fa fa-quote-left"></i>
-														<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, </p>
+														<p><strong>Vision</strong></p>
+														<p>To be recognized as a premier pharmacy institution of academic excellence.</p>
 													</div>
-													<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore maiqua. It Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis auteo irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut on fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolor ipsum quia dolor sit amet, consectetur, adipisci velit. sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+												</div>
+											</div>
+											<!-- Three Close -->
+											
+											<div class="about-us">
+												<div class="content">
+													
+													<div class="quote">
+														<i class="fa fa-quote-left"></i>
+														<p><strong>Mission Statement</strong></p>
+														
+														<p>
+															
+															To produce competent pharmacists catering to the needs of Industry, and Society.
+														</p>
+														<p>
+															
+															To create a centre of excellence for education in the field of pharmaceutical sciences.
+														</p>
+														<p>
+															
+															To contribute our humble share to ensure the well being and to reduce the suffering of mankind.
+														</p>
+													
+													</div>
 												</div>
 											</div>
 											
-											
+											<!-- Four close -->
+											</div>
+											<div class="tab-2">
+												<div class="course-author">
+												<div class="content">
+													<h4>Dear friends,</h4>
+													<div class="text">
+														<i class="fa fa-quote-left"></i>
+														<p>I am indeed very much delighted to contact you through this brief communication. The college has completed illustrious 12 years from its establishment in 2006 by Honourable Shri Shyam M. Umalkar, working on the theme “Social transformation through Dynamic Education” keeping the objective of intellectual awakening and all-round development of people of India.</p>
+														<p>During these 12 years, we have made concentrated efforts to develop this college into an excellent center for education in Pharmaceutical Sciences.</p>
+														<p>As professional service, we provide our expertise for betterment of pharmacy profession. The college has been conducting continuous education programmes for retail pharmacists.</p>
+														<p>Along with Academics, overall personality development of students has been our major concerns. College regularly conducts cultural and sport activities.</p>
+														<p>
+															We are aware that although we have much to our credit but we have still to go ahead. Along with the cooperation of our illustrious alumni, pharmacy industries, students, faculty and all other well wishes, we want to maintain the pace of our progress. 
+														</p>
+														<p class="text-right">
+															<span>With best regard</span><br/>
+															<strong>(Pankaj P. Fitwe)</strong>
+														</p>
+													</div>
+												</div>
+											</div>
+											</div>
 										</div>
 									</div>
 								</div>
@@ -159,67 +156,6 @@
 						</div>
 					</div>
 				</section>
-				<!-- <section class="kopa-area kopa-area-21">
-					<div class="container">
-						<div class="row">
-							<div class="col-md-9 col-sm-12 col-xs-12 col-md-offset-3">
-								<div class="widget kopa-widget-about_us">
-									<h3 class="widget-title style-06">About Us</h3>
-									<div class="widget-content">
-										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore maiqua. It Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis auteo irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut on fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolor ipsum quia dolor sit amet, consectetur, adipisci velit. sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
-										<div class="kopa-gallery-slider">
-											<div class="item">
-												<img src="images/gallery/12.jpg" alt="">
-											</div>
-											<div class="item">
-												<img src="images/gallery/13.jpg" alt="">
-											</div>
-											<div class="item">
-												<img src="images/gallery/14.jpg" alt="">
-											</div>
-											<div class="item">
-												<img src="images/gallery/15.jpg" alt="">
-											</div>
-											<div class="item">
-												<img src="images/gallery/12.jpg" alt="">
-											</div>
-											<div class="item">
-												<img src="images/gallery/13.jpg" alt="">
-											</div>
-											<div class="item">
-												<img src="images/gallery/14.jpg" alt="">
-											</div>
-											<div class="item">
-												<img src="images/gallery/15.jpg" alt="">
-											</div>
-										</div>
-										<h4>Mission & Purpose</h4>
-										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore maiqua. It Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis auteo irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
-										<ul>
-											<li>
-												<i class="fa fa-check-circle"></i>
-												Ut enim ad minim veniam, quis nostu to the end quis nostu to the end.
-											</li>
-											<li>
-												<i class="fa fa-check-circle"></i>
-												Nisi ut aliquip ex ea commodo consequat. Quis nostu to the end
-											</li>
-											<li>
-												<i class="fa fa-check-circle"></i>
-												Duis aute iru dolor in reprehenderit edng otui. Ex ea commodo cons.
-											</li>
-										</ul>
-										<div class="quote">
-											<i class="fa fa-quote-left"></i>
-											<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, </p>
-										</div>
-										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore maiqua. It Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis auteo irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut on fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolor ipsum quia dolor sit amet, consectetur, adipisci velit. sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</section> -->
 			</div>
 			
 			<?php include "footer.php";?>

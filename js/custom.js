@@ -24,7 +24,21 @@
 **/
 "use strict";
 jQuery(document).ready(function(){
-
+	
+	/*jQuery(".about-matoshri .left-nav li").on("click", function (e){
+		e.preventDefault();
+		alert();
+		var $this	= $(this),
+			wrap 	= $(".right-content"),
+			tab	 	= $this.attr("data-tab");
+			alert($this.hasClass("active"));
+			
+			$this.addClass('active');
+			$this.siblings();
+			
+			tab.show();
+		
+	});*/
     
     /*1. Main slider*/
 	if (jQuery('.kopa-widget-slider').length) {

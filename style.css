@@ -6167,8 +6167,9 @@ aside.sidebar .kopa-widget-advanced_search .widget-title:before {
   color: #fff;
 }
 
-.kopa-widget-course_info .module-course_info-01 .course-author {
-  margin-bottom: 80px;
+.kopa-widget-course_info .module-course_info-01 .course-author,
+.kopa-widget-course_info .module-course_info-01 .about-us {
+  margin-bottom: 40px;
 }
 
 .kopa-widget-course_info .module-course_info-01 .course-author .thumb {
@@ -6253,7 +6254,7 @@ aside.sidebar .kopa-widget-advanced_search .widget-title:before {
 .kopa-widget-course_info .module-course_info-01 .about-us .content .quote {
   background-color: #f6f6f6;
   padding: 20px 30px;
-  margin: 45px 0;
+  margin: 15px 0;
 }
 
 .kopa-widget-course_info .module-course_info-01 .about-us .content .quote i {
@@ -6708,7 +6709,7 @@ aside.sidebar .kopa-widget-advanced_search .widget-title:before {
   letter-spacing: 2px;
   position: relative;
   padding-bottom: 25px;
-  margin: 0 0 40px;
+  margin: 0 0 20px;
 }
 
 .widget-title.style-02:before, .widget-title.style-03:before {

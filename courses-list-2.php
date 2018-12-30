@@ -798,7 +798,7 @@ tr:nth-child(even) {
 										<h4>
 										<i class="fa fa-check-circle"></i>
 											&nbsp Selection Of Candidates</h4>
-											<p>
+											<p><br>
 												Interse Merit Basis & According To Govt. Rules.
 												<br>
 												<b>Seat Intake : </b>60 Seats

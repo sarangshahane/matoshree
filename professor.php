@@ -38,7 +38,7 @@
 										<article class="entry-item">
 											<div class="entry-thumb">
 												<a href="#">
-													<img src="images/teachers/4.jpg" alt="">
+													<img src="images/teachers2/Bhaskar.jpg" alt="">
 												</a>
 												<ul class="social">
 													<li><a href="#"><span class="fa fa-behance"></span></a></li>
@@ -48,9 +48,10 @@
 											</div>
 											<div class="entry-content">
 												<h4 class="entry-title"> 
-													<a href="#">Ralph Garcia</a>
+													<a href="#">Bhaskar S. Ambhore</a>
 												</h4>
-												<p>PLUSTIC</p>
+												<p>M pharm(Pharmacology)</p>
+												<p>Exp 05 yrs</p>
 											</div>
 										</article>
 									</div>
@@ -58,7 +59,7 @@
 										<article class="entry-item">
 											<div class="entry-thumb">
 												<a href="#">
-													<img src="images/teachers/5.jpg" alt="">
+													<img src="images/teachers2/Bhushantupkar.jpg" alt="">
 												</a>
 												<ul class="social">
 													<li><a href="#"><span class="fa fa-behance"></span></a></li>
@@ -68,9 +69,10 @@
 											</div>
 											<div class="entry-content">
 												<h4 class="entry-title"> 
-													<a href="#">Ralph Garcia</a>
+													<a href="#">Bhushan A. Tupkar</a>
 												</h4>
-												<p>PLUSTIC</p>
+												<p>M pharm(Quality Assurance)</p>
+												<p>Exp 7 yrs</p>
 											</div>
 										</article>
 									</div>

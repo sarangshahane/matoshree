@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
-		<title>Paathshaala - Education & Courses HTML Template</title>
+		<title>Matoshree Education Society</title>
 		
 		<?php include "common-scripts.php";?>
 
@@ -103,7 +103,7 @@
 								<div class="contact-detail">
 									<h3>Get in touch with us now!</h3>
 									<div class="row">
-										<div class="col-md-4 col-sm-12 col-xs-12">
+										<div class="col-md-3 col-sm-12 col-xs-12">
 											<div class="detail">
 												<i class="fa fa-map-marker"></i>
 												<div class="content">
@@ -112,21 +112,28 @@
 												</div>
 											</div>
 										</div>
-										<div class="col-md-4 col-sm-12 col-xs-12">
+										<div class="col-md-3 col-sm-12 col-xs-12">
 											<div class="detail">
 												<i class="fa fa-phone"></i>
 												<div class="content">
-													<p>+ 880 1719 45 75 93</p>
-													<p>+ 880 1193 40 26 65</p>
+													<p><br><b>+ 07268-224240</b></p>
 												</div>
 											</div>
 										</div>
-										<div class="col-md-4 col-sm-12 col-xs-12">
+										<div class="col-md-3 col-sm-12 col-xs-12">
+											<div class="detail">
+												<i class="fa fa-fax"></i>
+												<div class="content">
+													<p><br><b>+ 07268-224745</b></p>
+												</div>
+											</div>
+										</div>
+										<div class="col-md-3 col-sm-12 col-xs-12">
 											<div class="detail">
 												<i class="fa fa-envelope"></i>
 												<div class="content">
-													<a href="#">results@paathshaala.edu</a>
-													<a href="#">admission@paathshaala.edu</a>
+													<a href="#">principalscop1@gmail.com</a>
+													<a href="#">info@matoshreee.com</a>
 												</div>
 											</div>
 										</div>

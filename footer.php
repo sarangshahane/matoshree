@@ -7,7 +7,7 @@
 								<div class="widget-content module-tweets-01">
 									<ul>
 										<li>
-											<i class="fa fa-phone"></i>
+											<i class="fa fa-envelope"></i>
 											<div class="tweets-detail">
 												<a href="mailto:example@domain.com">
 													<span>example@domain.com</span>
@@ -15,10 +15,10 @@
 											</div>
 										</li>
 										<li>
-											<i class="fa fa-twitter"></i>
+											<i class="fa fa-phone"></i>
 											<div class="tweets-detail">
 												<a href="tel:1234567890">
-													<span>1234567890</span>
+													<span>07268-224240</span>
 												</a>
 											</div>
 										</li>
@@ -65,7 +65,7 @@
 <footer class="kopa-footer style-02">
 	<div class="container">
 		<div class="pull-left">
-			<p>Copyright © 2005 - 2016 <a href="#">JoomlArt.com</a>. All Rights Reserved.</p>
+			<p>Copyright © 2018 - 2019 <a href="#">Matoshree Education Society</a>. All Rights Reserved.</p>
 		</div>
 		<div class="pull-right">
 			<ul>

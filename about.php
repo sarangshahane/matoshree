@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
-		<title></title>
+		<title>About Us</title>
 		
 		<!-- Font -->
 		<?php include "common-scripts.php";?>

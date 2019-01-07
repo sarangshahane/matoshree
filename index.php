@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
-		<title>Matoshree Education society</title>
+		<title>Paathshaala - Education & Courses HTML Template</title>
 		
 		<?php include "common-scripts.php";?>
 
@@ -26,7 +26,6 @@
 		                                <p class="sp-layer sp-txt-3" data-horizontal="520" data-vertical="300" data-show-transition="left" data-hide-transition="right" data-show-delay="400" data-hide-delay="200" data-show-duration="1000" data-hide-duration="1000">MATOSHREE</p>
 		                            </div>
 		                            <!-- sp-slide -->
-		                            
 		                        </div>
 		                        <!-- sp-slides -->
 		                    </div>		
@@ -56,7 +55,7 @@
 							<div class="col-lg-7 col-md-8 col-sm-12 col-xs-12">
 								<div class="widget kopa-widget-testimonials ">
 									<div class="widget-content module-testimonials-03">
-										<article class="entry-item">
+										<article class="entry-item ">
 											<div class="entry-thumb">
 												<a href="#">
 													<img src="images/testimonial/6.jpg" alt="">
@@ -81,15 +80,14 @@
 					</div>
 				</section>
 				
-				<section class="kopa-area kopa-area-15 white-text-style">
+				<section class="kopa-area white-black-style">
 					<div class="container">
 						<div class="widget kopa-widget-engage">
 							<div class="widget-content module-engage-02">
 								<article class="kopa-engage-represent">
 									<div class="kopa-engage-thumb">
 										<a href="#">
-											<img src="images/engage/1.jpg" alt="">
-											<span class="fa fa-play"></span>
+											<img src="images/courses/our-institutes.jpg" alt="">
 										</a>
 										<span class="l1"></span>
 										<span class="l2"></span>
@@ -99,7 +97,7 @@
 									<div class="kopa-engage-content">
 										<header class="widget-header style-02">
 											<h3 class="widget-title">Our</h3>
-											<h4>Courses</h4>
+											<h4>Educational Institutions</h4>
 										</header>
 										<p>Matoshri  Education Society is one of the private education institutions in Mehkar Dist. Buldhana, India. It was founded in 1997. At present the society runs over 05 institutions including colleges,& CBSE school. Educational Institutions run by Matoshri Education Society, Mehkar.</p>
 										<!-- <a href="#">Apply NOW</a> -->
@@ -108,13 +106,12 @@
 								<div class="kopa-engage-gallery">
 									<div class="row">
 										<div class="col-md-3 col-sm-6 col-xs-12">
-											<article class="entry-item">
-												<div class="entry-thumb">
+											<article class="entry-item text-center">
+												<!-- <div class="entry-thumb">
 													<a href="#">
 														<img src="images/engage/2.jpg" alt="">
-														<span class="fa fa-headphones"></span>
 													</a>
-												</div>
+												</div> -->
 												<div class="entry-content">
 													<h4 class="entry-title">
 														<a href="#">College of Pharmacy, Khandala, Mehkar.</a>
@@ -125,13 +122,12 @@
 											</article>
 										</div>
 										<div class="col-md-3 col-sm-6 col-xs-12">
-											<article class="entry-item">
-												<div class="entry-thumb">
+											<article class="entry-item text-center">
+												<!-- <div class="entry-thumb">
 													<a href="#">
 														<img src="images/engage/3.jpg" alt="">
-														<span class="fa fa-volume-up"></span>
 													</a>
-												</div>
+												</div> -->
 												<div class="entry-content">
 													<h4 class="entry-title">
 														<a href="#">Satyajeet International English School (CBSE), Mehkar</a>
@@ -142,13 +138,12 @@
 											</article>
 										</div>
 										<div class="col-md-3 col-sm-6 col-xs-12">
-											<article class="entry-item">
-												<div class="entry-thumb">
+											<article class="entry-item text-center">
+												<!-- <div class="entry-thumb">
 													<a href="#">
 														<img src="images/engage/4.jpg" alt="">
-														<span class="fa fa-camera"></span>
 													</a>
-												</div>
+												</div> -->
 												<div class="entry-content">
 													<h4 class="entry-title">
 														<a href="#">Satyajeet B.Ed. College, Mehkar</a>
@@ -159,13 +154,12 @@
 											</article>
 										</div>
 										<div class="col-md-3 col-sm-6 col-xs-12">
-											<article class="entry-item">
-												<div class="entry-thumb">
+											<article class="entry-item text-center">
+												<!-- <div class="entry-thumb">
 													<a href="#">
 														<img src="images/engage/5.jpg" alt="">
-														<span class="fa fa-photo"></span>
 													</a>
-												</div>
+												</div> -->
 												<div class="entry-content">
 													<h4 class="entry-title">
 														<a href="#">Satyajeet D.Ed. College, Mehkar</a>

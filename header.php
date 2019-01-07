@@ -4,7 +4,7 @@
 						<div class="pull-left">
 							<h1 class="kopa-logo">
 								<a href="index.php">
-									<img src="img/icon/logo-5.png" alt="">
+									<img src="img/matoshree-logo.png" alt="matoshree-logo">
 								</a>
 							</h1>
 						</div>

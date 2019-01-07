@@ -30,11 +30,7 @@ tr:nth-child(even) {
 		<div id="main-container">
 			<?php include "inside-header.php"; ?>
 
-
-					<!-- Header section close/end
-							Main content of page is started here -->
-
-
+			<!-- Main content of page is started here -->
 			<div id="main-content">
 				<section class="kopa-area kopa-area-breadcrumb">
 					<div class="container">
@@ -155,9 +151,8 @@ tr:nth-child(even) {
 											</table>
    										</p>
 
-<!-- ------------------------------------------------------------------------------------------------  -->
-
-										
+								<!-- ------------------------------------------------------------------------------------------------  -->
+		
 										<h3 class="single-event-title">Admission Process / Fee</h3>
 										<ul class="event-list-day">
 											<li>
@@ -215,7 +210,8 @@ tr:nth-child(even) {
 												<p>Registered Diploma Pharmacists can start their own Wholesale or Druggist & Chemist Counters or they may get appointments there in..</p>
 											</li>
 										</ul>
-<!-- -------------------------------------------------------------- -->
+									
+									<!-- -------------------------------------------------------------- -->
 										<div class="related-event">
 											<h3 class="single-event-title">Facilities</h3>
 											<div class="row">
@@ -321,7 +317,7 @@ tr:nth-child(even) {
 															<ul class="event-list-day">
 																<li>
 																	<i class="fa fa-circle"></i>
-																	<span>Participation under Inter Engg. Diploma Students Sports Association, </span>
+																	<span>Participation under Inter Engg. Diploma &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Students Sports Association</span>
 																</li>
 																<li>
 																	<i class="fa fa-circle"></i>
@@ -329,7 +325,7 @@ tr:nth-child(even) {
 																</li>
 																<li>
 																	<i class="fa fa-circle"></i>
-																	<span>&nbsp During Annual Gathering various sports competitions</span>
+																	<span>During Annual Gathering various sports &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;competitions</span>
 																</li>
 															</ul>
 															</p>
@@ -441,55 +437,55 @@ tr:nth-child(even) {
 											<ul>
 												<li>
 													<p>
-														<i class="fa fa-file"></i>
+														<i class="fa fa-circle"></i>
 														Mark Sheets - First/Second Year D.Pharm  
 													</p>
 													<span>(Attested Xerox)</span>
 												</li>
 												<li>
 													<p>
-														<i class="fa fa-file"></i>
+														<i class="fa fa-circle"></i>
 														S.S.C. Board Certificate 
 													</p>
 													<span>(Attested Xerox)</span>
 												</li><li>
 													<p>
-														<i class="fa fa-file"></i>
+														<i class="fa fa-circle"></i>
 														Leaving Certificate/Transfer Certificate 
 													</p>
 													<span>(Attested Xerox)</span>
 												</li><li>
 													<p>
-														<i class="fa fa-file"></i>
+														<i class="fa fa-circle"></i>
 														B / W Photographs – 06 (Recent))  
 													</p>
 													<span>(Size 4 X 6 Cm)</span>
 												</li><li>
 													<p>
-														<i class="fa fa-file"></i>
+														<i class="fa fa-circle"></i>
 														Domicile Certificate / Ration Card 
 													</p>
 													<span>(Attested Xerox)</span>
 												</li><li>
 													<p>
-														<i class="fa fa-file"></i>
+														<i class="fa fa-circle"></i>
 														Practical Training Form Section
 													</p>
 													<span>(I / II / III / IV )</span>
 												</li><li>
 													<p>
-														<i class="fa fa-file"></i>
+														<i class="fa fa-circle"></i>
 														Section V-(Issued From Institute) 
 													</p>
 												</li><li>
 													<p>
-														<i class="fa fa-file"></i>
+														<i class="fa fa-circle"></i>
 														Indentity Certificate
 													</p>
 													<span>(Issued From Institute)</span>
 												</li><li>
 													<p>
-														<i class="fa fa-file"></i>
+														<i class="fa fa-circle"></i>
 														Approval Certificate
 													</p>
 													<span>( I / II / III / IV )</span>

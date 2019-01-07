@@ -7,27 +7,19 @@
 									<i class="fa fa-check-circle"></i>
 									Have any question?
 									<span>|</span>
-									<a href="#">+38 237 948 236</a> 
+									<a href="#">07268-224240</a> 
 									 / 
-									<a href="#">Admin@teacher.com</a>
+									<a href="#">principalscop1@gmail.com</a>
 								</p>
 							</div>
 						</div>
 						<div class="right-top-header">
-							<a href="#">Login</a>
-							<a href="#">Register</a>
-							<div>
 								<div class="kopa-search">
 									<button type="button">
 										<i class="ti-search"></i>
 									</button>
 									<input type="text" placeholder="Search..." class="">
 								</div>
-								<a href="cart.php" class="kopa-mini-cart">
-									<span class="fa fa-shopping-bag"></span>
-									<span class="count-item">5</span>
-								</a>
-							</div>
 						</div>
 					</div>
 				</div>
@@ -35,7 +27,7 @@
 					<div class="container">
 						<div class="pull-left">
 							<h1 class="kopa-logo">
-								<a href="#">
+								<a href="index.php">
 									<img src="img/icon/logo-3.png" alt="">
 								</a>
 							</h1>

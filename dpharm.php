@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
-		<title>Paathshaala - Education & Courses HTML Template</title>
+		<title>Matoshree Education society</title>
 		
 		<!-- Font -->
 <link href="https://fonts.googleapis.com/css?family=Montserrat:400,600,700|Roboto+Slab:300,400,700" rel="stylesheet">
@@ -84,7 +84,7 @@ tr:nth-child(even) {
 								</a>
 							</h1>
 						</div>
-						<div class="pull-right">
+					<!--	<div class="pull-right">
 							<nav class="kopa-main-menu style-02">
 								<ul>
 									<li class="menu-item-has-children current-menu-item">
@@ -279,7 +279,7 @@ tr:nth-child(even) {
 												</div>
 											</div>
 										</div>
-									</li> -->
+									</li>
 									
 									<li class="menu-item-has-children">
 										<a href="portfolio.php">Portfolio
@@ -305,13 +305,13 @@ tr:nth-child(even) {
 							<div class="kopa-hamburger-menu">
 								<i class="fa fa-bars"></i>
 							</div>
-						</div>
+						</div>-->
 					</div>
 				</div>
 			</header>
 
 
-					<1-- Header section close/end
+					<!-- Header section close/end
 							Main content of page is started here -->
 
 

@@ -40,9 +40,39 @@
 								</a>
 							</h1>
 						</div>
-						<div class="pull-right">
+
+						 <div class="pull-right">
 							<nav class="kopa-main-menu style-02">
+							
 								<ul>
+									<li class="current-menu-item">
+										<a href="index.php">Home</a>
+									</li>
+									<li>
+										<a href="about.php">About</a>
+										<ul>
+											<li><a href="about.php">About US</a></li>
+											<li><a href="professor.php">Professor</a></li>
+										</ul>
+									</li>
+									
+									<li>
+										<a href="#">Academics</a>
+										<ul>
+											<li><a href="dpharm.php">D-Pharm</a></li>
+										</ul>
+									</li>
+
+								<!--	<li><a href="events.php">Events</a></li> 
+									<li><a href="#">Gallery</a></li> -->
+									<li><a href="contact.php">Contact</a></li>
+									
+								</ul>
+							</nav>
+							<div class="kopa-hamburger-menu">
+								<i class="fa fa-bars"></i>
+													
+						<!--    <ul>
 									<li class="menu-item-has-children current-menu-item">
 										<a href="index-1.php">Home
 											<span>About Us</span>
@@ -145,7 +175,7 @@
 									</li>
 									
 									
-									<!-- <li class="megamenu-item">
+									<li class="megamenu-item">
 										<a href="#">News
 											<span>news</span>
 										</a>
@@ -235,7 +265,7 @@
 												</div>
 											</div>
 										</div>
-									</li> -->
+									</li>
 									
 									<li class="menu-item-has-children">
 										<a href="portfolio.php">Portfolio
@@ -261,7 +291,7 @@
 							<div class="kopa-hamburger-menu">
 								<i class="fa fa-bars"></i>
 							</div>
-						</div>
+						</div> -->
 					</div>
-				</div>
+				</div> 
 			</header>

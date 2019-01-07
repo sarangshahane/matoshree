@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
-		<title>Paathshaala - Education & Courses HTML Template</title>
+		<title>Matoshree Education society</title>
 		
 		<?php include "common-scripts.php";?>
 

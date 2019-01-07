@@ -14,10 +14,23 @@
 									<li class="current-menu-item">
 										<a href="index.php">Home</a>
 									</li>
-									<li><a href="about.php">About</a></li>
-									<li><a href="#">Academics</a></li>
-									<li><a href="events.php">Events</a></li>
-									<li><a href="#">Gallery</a></li>
+									<li>
+										<a href="about.php">About</a>
+										<ul>
+											<li><a href="about.php">About US</a></li>
+											<li><a href="professor.php">Professor</a></li>
+										</ul>
+									</li>
+									
+									<li>
+										<a href="#">Academics</a>
+										<ul>
+											<li><a href="dpharm.php">D-Pharm</a></li>
+										</ul>
+									</li>
+
+								<!--	<li><a href="events.php">Events</a></li> 
+									<li><a href="#">Gallery</a></li> -->
 									<li><a href="contact.php">Contact</a></li>
 									
 								</ul>

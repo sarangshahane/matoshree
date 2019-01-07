@@ -272,7 +272,7 @@ body {
 }
 
 .kopa-area {
-  padding: 120px 0;
+  padding: 60px 0;
 }
 
 .kopa-area-nospace {
@@ -5320,7 +5320,7 @@ ul.list-has-style li:before {
   border: none;
 }
 
-.kopa-widget-engage .module-engage-02 .kopa-engage-gallery > .row > div:hover .entry-item {
+/*.kopa-widget-engage .module-engage-02 .kopa-engage-gallery > .row > div:hover .entry-item {
   transform: translateY(30px);
   -webkit-transform: translateY(30px);
   -ms-transform: translateY(30px);
@@ -5334,7 +5334,7 @@ ul.list-has-style li:before {
   -ms-transform: scale(1.1);
   -moz-transform: scale(1.1);
   -o-transform: scale(1.1);
-}
+}*/
 
 .kopa-widget-engage .module-engage-02 .kopa-engage-gallery > .row > div:hover .entry-item .entry-thumb a:before {
   background-color: rgba(0, 0, 0, 0.3);
@@ -5795,6 +5795,7 @@ ul.list-has-style li:before {
 
 .kopa-widget-newsletter .module-newsletter-01 form input {
   padding: 0 40px 0 20px;
+  margin-bottom: 10px;
 }
 
 .kopa-widget-newsletter .module-newsletter-01 form button {

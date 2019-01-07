@@ -463,4 +463,10 @@ jQuery(document).ready(function(){
         }
     }
 
+    // Remove 
+    if(jQuery('.kopa-widget-slider').length){
+        jQuery('.kopa-widget-slider').find('.sp-arrows').remove();
+        jQuery('.kopa-widget-slider').find('.time-slider').remove();
+    }
+
 });

@@ -7,7 +7,7 @@
 								<div class="widget-content module-tweets-01">
 									<ul>
 										<li>
-											<i class="fa fa-phone"></i>
+											<i class="fa fa-envelope"></i>
 											<div class="tweets-detail">
 												<a href="mailto:example@domain.com">
 													<span>example@domain.com</span>
@@ -15,7 +15,7 @@
 											</div>
 										</li>
 										<li>
-											<i class="fa fa-twitter"></i>
+											<i class="fa fa-phone"></i>
 											<div class="tweets-detail">
 												<a href="tel:1234567890">
 													<span>1234567890</span>

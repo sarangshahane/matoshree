@@ -3,27 +3,23 @@
 					<div class="row">
 						<div class="col-md-4 col-sm-6 col-xs-12">
 							<div class="widget kopa-widget-tweets">
-								<h3 class="widget-title style-02">RECENT TWEETS</h3>
+								<h3 class="widget-title style-02">Contact Us</h3>
 								<div class="widget-content module-tweets-01">
 									<ul>
 										<li>
-											<i class="fa fa-twitter"></i>
+											<i class="fa fa-phone"></i>
 											<div class="tweets-detail">
-												<a href="#">
-													<span>@ASCETICDESIGNERS,</span>
-													Next Jobs Fair Will Be Held in Our Campus.
+												<a href="mailto:example@domain.com">
+													<span>example@domain.com</span>
 												</a>
-												<span>5 Mins Ago</span>
 											</div>
 										</li>
 										<li>
 											<i class="fa fa-twitter"></i>
 											<div class="tweets-detail">
-												<a href="#">
-													<span>@ASHIFULPAPPU,</span>
-													Build Your Career at Our Paathshaala Faculties.
+												<a href="tel:1234567890">
+													<span>1234567890</span>
 												</a>
-												<span>25 Mins Ago</span>
 											</div>
 										</li>
 									</ul>
@@ -32,12 +28,13 @@
 						</div>
 						<div class="col-md-4 col-sm-6 col-xs-12">
 							<div class="widget kopa-widget-newsletter">
-								<h3 class="widget-title style-02">newsletter</h3>
+								<h3 class="widget-title style-02">Send us a mail</h3>
 								<div class="widget-content module-newsletter-01">
-									<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
 									<form>
-										<p><input type="text"></p>
-										<button type="submit">subscribe</button>
+										<input type="text" name="full_name" placeholder="Enter your name" required>
+										<input type="email" name="email" placeholder="Enter your email" required>
+										<input type="text" name="phone_number" placeholder="Enter your contact no." required>
+										<button type="submit">Send Now</button>
 									</form>
 								</div>
 							</div>

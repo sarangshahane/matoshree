@@ -4823,8 +4823,8 @@ ul.list-has-style li:before {
 
 .kopa-widget-tweets .module-tweets-01 ul li {
   border-bottom: 1px solid #233345;
-  padding-bottom: 25px;
-  margin-top: 25px;
+  padding-bottom: 10px;
+  margin-top: 0px;
 }
 
 .kopa-widget-tweets .module-tweets-01 ul li:last-child {

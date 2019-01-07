@@ -3,7 +3,7 @@
 					<div class="container">
 						<div class="pull-left">
 							<h1 class="kopa-logo">
-								<a href="#">
+								<a href="index.php">
 									<img src="img/icon/logo-5.png" alt="">
 								</a>
 							</h1>

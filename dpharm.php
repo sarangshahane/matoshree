@@ -41,6 +41,7 @@ tr:nth-child(even) {
 </style>
 	</head>
 	<body>
+
 		<div id="main-container">
 			<header class="kopa-header-02">
 				<div class="top-header">
@@ -79,7 +80,7 @@ tr:nth-child(even) {
 					<div class="container">
 						<div class="pull-left">
 							<h1 class="kopa-logo">
-								<a href="#">
+								<a href="index.php">
 									<img src="img/icon/logo-3.png" alt="">
 								</a>
 							</h1>
@@ -323,11 +324,11 @@ tr:nth-child(even) {
 								<h3 class="breadcrumb-title">Diploma Course In Pharmacy </h3>
 								<div class="breadcrumb-nav">
 									<span>
-										<a href="#">
+										<a href="index.php">
 											<span>Home</span>
 										</a>
 									</span>
-									<span class="current-page">D Pharm Details</span>
+									<span class="current-page">Diploma Course In Pharmacy</span>
 								</div>
 							</div>
 						</div>

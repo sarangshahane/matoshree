@@ -18,7 +18,7 @@
 										<a href="about.php">About</a>
 										<ul>
 											<li><a href="about.php">About US</a></li>
-											<li><a href="professor.php">Professors</a></li>
+											<li><a href="professors.php">Professors</a></li>
 										</ul>
 									</li>
 									

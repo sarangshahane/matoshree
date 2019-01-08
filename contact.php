@@ -140,7 +140,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="kopa-map-01"></div>
+							<!-- <div class="kopa-map-01"></div> -->
 						</div>
 					</div>
 				</section>

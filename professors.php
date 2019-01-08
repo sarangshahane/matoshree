@@ -38,7 +38,7 @@
 										<article class="entry-item">
 											<div class="entry-thumb">
 												<a href="#">
-													<img src="images/teachers2/Bhaskar.jpg" alt="">
+													<img src="images/teachers/pankaj-fitwe.jpg" alt="">
 												</a>
 												<ul class="social">
 													<li><a href="#"><span class="fa fa-behance"></span></a></li>
@@ -48,10 +48,10 @@
 											</div>
 											<div class="entry-content">
 												<h4 class="entry-title"> 
-													<a href="#">Bhaskar S. Ambhore</a>
+													<a href="#">Pankaj Fitwe</a>
 												</h4>
 												<p>M pharm(Pharmacology)</p>
-												<p>Exp 05 yrs</p>
+												<p>Exp: 5 yrs.</p>
 											</div>
 										</article>
 									</div>
@@ -59,7 +59,7 @@
 										<article class="entry-item">
 											<div class="entry-thumb">
 												<a href="#">
-													<img src="images/teachers2/Bhushantupkar.jpg" alt="">
+													<img src="images/teachers/bhushan-tupkar.jpg" alt="">
 												</a>
 												<ul class="social">
 													<li><a href="#"><span class="fa fa-behance"></span></a></li>
@@ -72,7 +72,7 @@
 													<a href="#">Bhushan A. Tupkar</a>
 												</h4>
 												<p>M pharm(Quality Assurance)</p>
-												<p>Exp 7 yrs</p>
+												<p>Exp: 7 yrs.</p>
 											</div>
 										</article>
 									</div>
@@ -80,7 +80,7 @@
 										<article class="entry-item">
 											<div class="entry-thumb">
 												<a href="#">
-													<img src="images/teachers/6.jpg" alt="">
+													<img src="images/teachers/bhaskar-ambhore.jpg" alt="">
 												</a>
 												<ul class="social">
 													<li><a href="#"><span class="fa fa-behance"></span></a></li>
@@ -90,9 +90,10 @@
 											</div>
 											<div class="entry-content">
 												<h4 class="entry-title"> 
-													<a href="#">Ralph Garcia</a>
+													<a href="#">Bhaskar S. Ambhore</a>
 												</h4>
-												<p>PLUSTIC</p>
+												<p>M pharm(Pharmacology)</p>
+												<p>Exp: 5 yrs.</p>
 											</div>
 										</article>
 									</div>
@@ -100,7 +101,7 @@
 										<article class="entry-item">
 											<div class="entry-thumb">
 												<a href="#">
-													<img src="images/teachers/7.jpg" alt="">
+													<img src="images/teachers/vinod-chawre.jpg" alt="">
 												</a>
 												<ul class="social">
 													<li><a href="#"><span class="fa fa-behance"></span></a></li>
@@ -110,9 +111,10 @@
 											</div>
 											<div class="entry-content">
 												<h4 class="entry-title"> 
-													<a href="#">Ralph Garcia</a>
+													<a href="#">Vinod S. Chawre</a>
 												</h4>
-												<p>PLUSTIC</p>
+												<p>M pharm (Pharmaceutics)</p>
+												<p>Exp: 5 yrs.</p>
 											</div>
 										</article>
 									</div>
@@ -120,7 +122,7 @@
 										<article class="entry-item">
 											<div class="entry-thumb">
 												<a href="#">
-													<img src="images/teachers/4.jpg" alt="">
+													<img src="images/teachers/mayur-lokhare.jpg" alt="">
 												</a>
 												<ul class="social">
 													<li><a href="#"><span class="fa fa-behance"></span></a></li>
@@ -130,9 +132,10 @@
 											</div>
 											<div class="entry-content">
 												<h4 class="entry-title"> 
-													<a href="#">Ralph Garcia</a>
+													<a href="#">Mayur K. Lohkare</a>
 												</h4>
-												<p>PLUSTIC</p>
+												<p>M. pharm (Pharmaceutics)</p>
+												<p>Exp: 4 yrs.</p>
 											</div>
 										</article>
 									</div>
@@ -140,7 +143,7 @@
 										<article class="entry-item">
 											<div class="entry-thumb">
 												<a href="#">
-													<img src="images/teachers/5.jpg" alt="">
+													<img src="images/teachers/swapnil-thakre.jpg" alt="">
 												</a>
 												<ul class="social">
 													<li><a href="#"><span class="fa fa-behance"></span></a></li>
@@ -150,9 +153,10 @@
 											</div>
 											<div class="entry-content">
 												<h4 class="entry-title"> 
-													<a href="#">Ralph Garcia</a>
+													<a href="#">Swapnil V. Thakre</a>
 												</h4>
-												<p>PLUSTIC</p>
+												<p>M pharm(Pharmaceutics)</p>
+												<p>Exp: 2 yrs.</p>
 											</div>
 										</article>
 									</div>
@@ -160,7 +164,7 @@
 										<article class="entry-item">
 											<div class="entry-thumb">
 												<a href="#">
-													<img src="images/teachers/6.jpg" alt="">
+													<img src="images/teachers/bhagyashri-sonone.jpg" alt="">
 												</a>
 												<ul class="social">
 													<li><a href="#"><span class="fa fa-behance"></span></a></li>
@@ -170,9 +174,10 @@
 											</div>
 											<div class="entry-content">
 												<h4 class="entry-title"> 
-													<a href="#">Ralph Garcia</a>
+													<a href="#">Bhagyashri S. Sonone</a>
 												</h4>
-												<p>PLUSTIC</p>
+												<p>M.pharm(Quality assurance)</p>
+												<p>Exp: 2 yrs.</p>
 											</div>
 										</article>
 									</div>
@@ -180,7 +185,7 @@
 										<article class="entry-item">
 											<div class="entry-thumb">
 												<a href="#">
-													<img src="images/teachers/7.jpg" alt="">
+													<img src="images/teachers/amol-dhondge.jpg" alt="">
 												</a>
 												<ul class="social">
 													<li><a href="#"><span class="fa fa-behance"></span></a></li>
@@ -190,22 +195,13 @@
 											</div>
 											<div class="entry-content">
 												<h4 class="entry-title"> 
-													<a href="#">Ralph Garcia</a>
+													<a href="#">Amol V.Dhondge</a>
 												</h4>
-												<p>PLUSTIC</p>
+												<p>B.pharm</p>
+												<p>Exp: 1 yrs.</p>
 											</div>
 										</article>
 									</div>
-								</div>
-								<div class="kopa-pagination style-02">
-									<nav class="navigation pagination">
-                                        <div class="nav-links">
-                                        	<a class="next page-numbers" href="#"><i class="fa fa-angle-left"></i></a>
-                                        	<a class="page-numbers" href="#">1</a>
-                                            <span class="page-numbers current">2</span>
-                                            <a class="next page-numbers" href="#"><i class="fa fa-angle-right"></i></a> 
-                                        </div>
-                                    </nav>
 								</div>
 							</div>
 						</div>

@@ -1420,7 +1420,8 @@ ul.list-has-style li:before {
 }
 
 .bottom-header.style-02 .kopa-logo, .bottom-header.widget-title.style-03 .kopa-logo {
-  margin-top: 30px;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 
 .bottom-header.style-02 .kopa-main-menu.style-02, .bottom-header.widget-title.style-03 .kopa-main-menu.style-02, .bottom-header.style-02 .kopa-main-menu.widget-title.style-03, .bottom-header.widget-title.style-03 .kopa-main-menu.widget-title.style-03 {
@@ -5887,10 +5888,18 @@ ul.list-has-style li:before {
 }
 
 .kopa-widget-contact_map .module-contact_map-01 > .container {
-  position: absolute;
-  top: -30px;
-  left: 50%;
-  z-index: 2;
+	position: relative;
+	/* top: 0; */
+	/* left: 0; */
+	margin: 0 auto;
+	z-index: 2;
+
+	/* Translate property */
+	transform: translateX(0%); */
+    -moz-transform: translateX(0%);
+    -webkit-transform: translateX(0%);
+    -o-transform: translateX(0%);
+    -ms-transform: translateX(0%);
 }
 
 .kopa-widget-contact_map .module-contact_map-01 .contact-detail {

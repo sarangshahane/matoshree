@@ -28,7 +28,7 @@
 						<div class="pull-left">
 							<h1 class="kopa-logo">
 								<a href="index.php">
-									<img src="img/icon/logo-3.png" alt="">
+									<img src="img/matoshree-logo.png" alt="matoshree-logo">
 								</a>
 							</h1>
 						</div>
@@ -44,7 +44,7 @@
 										<a href="about.php">About</a>
 										<ul>
 											<li><a href="about.php">About US</a></li>
-											<li><a href="professor.php">Professors</a></li>
+											<li><a href="professors.php">Professors</a></li>
 										</ul>
 									</li>
 									

@@ -52,83 +52,84 @@
 									<div class="col-lg-9 col-md-8 col-sm-12 col-xs-12">
 										<div class="right-content">
 											<div class="tab-1">
-											<div class="course-author">
-												<div class="thumb">
-													<img src="images/testimonial/6.jpg" alt="">
-												</div>
-												<div class="content">
-													<h4>Shri Shyam M. Umalkar</h4>
-													<span>Founder of Matoshri Education Society</span>
-													<div class="text">
-														<i class="fa fa-quote-left"></i>
-														<p>There was no Pharmacy College in Mehkar Tahsil of Buldhana District of Maharashtra till 2006 and Shri Shyam M. Umalkar, Founder of Matoshri Education Society, realising the need for training the students in Pharmaceutical Sciences established College of Pharmacy in 2006. Thus this college is the pioneering pharmacy institute in this region. </p>
-														<p>With a person like Shri. Bhushan M. Minase who is a very dynamic man with a great academic commitment and orientation at the helm of affairs, as its Secretary for 12 years, this College has now come to be known as one of the best Pharmacy Colleges in the region for its academic excellence. </p>
-														<p>
-															The College has been granted approval by the All India Council for Technical Education, New Delhi, which is the apex body controlling technical and professional education in the country. 
+												<div class="course-author">
+													<div class="thumb">
+														<img src="images/testimonial/6.jpg" alt="">
+													</div>
+													<div class="content">
+														<h4>Shri Shyam M. Umalkar</h4>
+														<span>Founder of Matoshri Education Society</span>
+														<div class="text">
+															<i class="fa fa-quote-left"></i>
+															<p>There was no Pharmacy College in Mehkar Tahsil of Buldhana District of Maharashtra till 2006 and Shri Shyam M. Umalkar, Founder of Matoshri Education Society, realising the need for training the students in Pharmaceutical Sciences established College of Pharmacy in 2006. Thus this college is the pioneering pharmacy institute in this region. </p>
+															<p>With a person like Shri. Bhushan M. Minase who is a very dynamic man with a great academic commitment and orientation at the helm of affairs, as its Secretary for 12 years, this College has now come to be known as one of the best Pharmacy Colleges in the region for its academic excellence. </p>
+															<p>
+																The College has been granted approval by the All India Council for Technical Education, New Delhi, which is the apex body controlling technical and professional education in the country. 
 
-														</p>
-														<p>
-															<strong>The college is approved by Pharmacy council of India.
-															</strong>
-														</p>
+															</p>
+															<p>
+																<strong>The college is approved by Pharmacy council of India.
+																</strong>
+															</p>
+														</div>
 													</div>
 												</div>
-											</div>
-											<div class="about-us">
-												<h3 class="widget-title style-06">From the President Desk</h3>
-												<div class="content">
-													<p>To develop Matoshri Education Society’s College of Pharmacy into a vibrant & an exemplary education institution, where student are nurtured and encouraged to achieve their ultimate potential high quality standards of teaching and learning in a caring environment is the very heart of our purpose in which significant emphasis is placed on individual students achievement and the celebration of success. Striving for excellence is our motto.</p>
-												</div>
-											</div>
-											<!-- One close -->
-											
-											<div class="about-us">
-												<h3 class="widget-title style-06">From the Secretary Desk</h3>
-												<div class="content">
-													<p>We are committed to be an exceptional school with a difference. The scholars of our college will be cognizant, sensitive, reflective and participative individuals who, take pride in themselves and the nation, will impact and influence a changing society with confidence and creativity. The institute is committed to provide a challenging, enriching and purposeful learning environment on a sustained basis in the belief that this engages students in maximum learning.</p>
-												</div>
-											</div>
-											<!-- Second Close -->
-											
-											<div class="about-us">
-												<div class="content">
-													
-													<div class="quote">
-														<i class="fa fa-quote-left"></i>
-														<p><strong>Vision</strong></p>
-														<p>To be recognized as a premier pharmacy institution of academic excellence.</p>
+												<div class="about-us">
+													<h3 class="widget-title style-06">From the President Desk</h3>
+													<div class="content">
+														<p>To develop Matoshri Education Society’s College of Pharmacy into a vibrant & an exemplary education institution, where student are nurtured and encouraged to achieve their ultimate potential high quality standards of teaching and learning in a caring environment is the very heart of our purpose in which significant emphasis is placed on individual students achievement and the celebration of success. Striving for excellence is our motto.</p>
 													</div>
 												</div>
-											</div>
-											<!-- Three Close -->
-											
-											<div class="about-us">
-												<div class="content">
-													
-													<div class="quote">
-														<i class="fa fa-quote-left"></i>
-														<p><strong>Mission Statement</strong></p>
+												<!-- One close -->
+												
+												<div class="about-us">
+													<h3 class="widget-title style-06">From the Secretary Desk</h3>
+													<div class="content">
+														<p>We are committed to be an exceptional school with a difference. The scholars of our college will be cognizant, sensitive, reflective and participative individuals who, take pride in themselves and the nation, will impact and influence a changing society with confidence and creativity. The institute is committed to provide a challenging, enriching and purposeful learning environment on a sustained basis in the belief that this engages students in maximum learning.</p>
+													</div>
+												</div>
+												<!-- Second Close -->
+												
+												<div class="about-us">
+													<div class="content">
 														
-														<p>
-															
-															To produce competent pharmacists catering to the needs of Industry, and Society.
-														</p>
-														<p>
-															
-															To create a centre of excellence for education in the field of pharmaceutical sciences.
-														</p>
-														<p>
-															
-															To contribute our humble share to ensure the well being and to reduce the suffering of mankind.
-														</p>
-													
+														<div class="quote">
+															<i class="fa fa-quote-left"></i>
+															<p><strong>Vision</strong></p>
+															<p>To be recognized as a premier pharmacy institution of academic excellence.</p>
+														</div>
 													</div>
 												</div>
+												<!-- Three Close -->
+												
+												<div class="about-us">
+													<div class="content">
+														
+														<div class="quote">
+															<i class="fa fa-quote-left"></i>
+															<p><strong>Mission Statement</strong></p>
+															
+															<p>
+																
+																To produce competent pharmacists catering to the needs of Industry, and Society.
+															</p>
+															<p>
+																
+																To create a centre of excellence for education in the field of pharmaceutical sciences.
+															</p>
+															<p>
+																
+																To contribute our humble share to ensure the well being and to reduce the suffering of mankind.
+															</p>
+														
+														</div>
+													</div>
+												</div>
+												
+												<!-- Four close -->
 											</div>
-											
-											<!-- Four close -->
-											</div>
-											<div class="tab-2">
+
+											<div class="tab-2" style="display: none;">
 												<div class="course-author">
 												<div class="content">
 													<h4>Dear friends,</h4>

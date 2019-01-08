@@ -92,7 +92,7 @@ tr:nth-child(even) {
 								</div>
 								
 								<div class="right-title">
-									<a href="http://www.mspcindia.org/">Visit to MSPC Mumbai </a>
+									<a href="http://www.mspcindia.org/" target="_blank">Visit to MSPC Mumbai </a>
 								</div>
 						</div>
 							<div class="row">

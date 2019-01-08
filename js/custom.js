@@ -25,20 +25,24 @@
 "use strict";
 jQuery(document).ready(function(){
 	
-	/*jQuery(".about-matoshri .left-nav li").on("click", function (e){
+	jQuery(".about-matoshri .left-nav li").on("click", function (e){
 		e.preventDefault();
-		alert();
 		var $this	= $(this),
 			wrap 	= $(".right-content"),
 			tab	 	= $this.attr("data-tab");
-			alert($this.hasClass("active"));
 			
 			$this.addClass('active');
-			$this.siblings();
+			$this.siblings().removeClass('active');
 			
-			tab.show();
+            if( 'tab-1' == tab ){
+                jQuery('.'+tab).css('display', 'block');
+                jQuery('.tab-2').css('display', 'none');
+            }else{
+                jQuery('.'+tab).css('display', 'block');
+                jQuery('.tab-1').css('display', 'none');
+            }
 		
-	});*/
+	});
     
     /*1. Main slider*/
 	if (jQuery('.kopa-widget-slider').length) {

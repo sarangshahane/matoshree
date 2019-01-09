@@ -1,3 +1,6 @@
+<?php 	
+		$pageTitle = "Home";
+?>
 <!DOCTYPE html>
 <html lang="en">
 	<head>
@@ -23,10 +26,9 @@
 		                                <img class="sp-image sp-image-bg" src="img/icon/blank.gif" data-src="images/main-slider/1.jpg" data-retina="images/main-slider/1.jpg" alt="" />
 		                                <p class="sp-layer sp-txt-1" data-horizontal="300" data-vertical="350" data-show-transition="right" data-hide-transition="left" data-show-delay="400" data-hide-delay="200" data-show-duration="1000" data-hide-duration="1000">EDUCATION SOCIETY</p>
 		                                <p class="sp-layer sp-txt-2" data-horizontal="420" data-vertical="430" data-show-transition="up" data-hide-transition="down" data-show-delay="800" data-hide-delay="200" data-show-duration="1000" data-hide-duration="1000">Education is learning what you didn't even know you didn't know.</p>
-		                                <p class="sp-layer sp-txt-3" data-horizontal="520" data-vertical="300" data-show-transition="left" data-hide-transition="right" data-show-delay="400" data-hide-delay="200" data-show-duration="1000" data-hide-duration="1000">MATOSHREE</p>
+		                                <p class="sp-layer sp-txt-3" data-horizontal="520" data-vertical="300" data-show-transition="left" data-hide-transition="right" data-show-delay="400" data-hide-delay="200" data-show-duration="1000" data-hide-duration="1000">MATOSHRI</p>
 		                            </div>
 		                            <!-- sp-slide -->
-		                            
 		                        </div>
 		                        <!-- sp-slides -->
 		                    </div>		
@@ -40,7 +42,7 @@
 								<div class="widget kopa-widget-welcome style-01">
 									<header class="widget-header style-02">
 										<h3 class="widget-title">Wellcome to</h3>
-										<h4>matoshree education society</h4>
+										<h4>matoshri education society</h4>
 									</header>
 									<div class="widget-content module-welcome-01">
 										<p>
@@ -56,10 +58,10 @@
 							<div class="col-lg-7 col-md-8 col-sm-12 col-xs-12">
 								<div class="widget kopa-widget-testimonials ">
 									<div class="widget-content module-testimonials-03">
-										<article class="entry-item">
+										<article class="entry-item ">
 											<div class="entry-thumb">
 												<a href="#">
-													<img src="images/testimonial/6.jpg" alt="">
+													<img src="images/teachers/shyam-umalkar.jpg" alt="">
 												</a>
 											</div>
 											<div class="entry-content">
@@ -80,304 +82,15 @@
 						</div>
 					</div>
 				</section>
-				<section class="kopa-area kopa-area-13 white-text-style">
-					<div class="container">
-						<div class="widget kopa-widget-list_event">
-							<header class="widget-header style-01">
-								<img src="img/icon/icon-header-11.png" alt="">
-								<h3 class="widget-title">Upcoming Events</h3>
-								<h4>We organize Lots of events &amp; Seminars</h4>
-							</header>
-							<div class="widget-content module-list_event-02">
-								<ul>
-									<li>
-										<span class="overlay"></span>
-										<article class="entry-item">
-											<div class="entry-thumb">
-												<div class="entry-date style-02">
-													<span>03</span>
-													<p>jun</p>
-												</div>
-												<a href="#">
-													<img src="images/event/3.jpg" alt="">
-												</a>
-											</div>
-											<div class="entry-content">
-												<div class="center">
-													<h4 class="entry-title">
-														<a href="#">Science Fair & IT Serimnars in Paathshaala Campus</a>
-													</h4>
-													<p>Lorem ipsum dolor sit amet, cetu adigi elit, sed do eiusmod a tempor incididt ut labore et. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco</p>
-													<ul class="event-time">
-														<li>
-															<i class="fa fa-map-marker"></i>
-															<span>Paathshaala Campus</span>
-														</li>
-														<li>
-															<i class="fa fa-clock-o"></i>
-															<span>09 Nov, 2016 @09:30 am</span>
-														</li>
-													</ul>
-												</div>
-												<a href="#" class="kopa-button-03">view detail</a>
-											</div>
-										</article>
-									</li>
-									<li>
-										<span class="overlay"></span>
-										<article class="entry-item">
-											<div class="entry-thumb">
-												<div class="entry-date style-02">
-													<span>04</span>
-													<p>jun</p>
-												</div>
-												<a href="#">
-													<img src="images/event/4.jpg" alt="">
-												</a>
-											</div>
-											<div class="entry-content">
-												<div class="center">
-													<h4 class="entry-title">
-														<a href="#">Science Fair & IT Serimnars in Paathshaala Campus</a>
-													</h4>
-													<p>Lorem ipsum dolor sit amet, cetu adigi elit, sed do eiusmod a tempor incididt ut labore et. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco</p>
-													<ul class="event-time">
-														<li>
-															<i class="fa fa-map-marker"></i>
-															<span>Paathshaala Campus</span>
-														</li>
-														<li>
-															<i class="fa fa-clock-o"></i>
-															<span>09 Nov, 2016 @09:30 am</span>
-														</li>
-													</ul>
-												</div>
-												<a href="#" class="kopa-button-03">view detail</a>
-											</div>
-										</article>
-									</li>
-									<li>
-										<span class="overlay"></span>
-										<article class="entry-item">
-											<div class="entry-thumb">
-												<div class="entry-date style-02">
-													<span>05</span>
-													<p>jun</p>
-												</div>
-												<a href="#">
-													<img src="images/event/5.jpg" alt="">
-												</a>
-											</div>
-											<div class="entry-content">
-												<div class="center">
-													<h4 class="entry-title">
-														<a href="#">Science Fair & IT Serimnars in Paathshaala Campus</a>
-													</h4>
-													<p>Lorem ipsum dolor sit amet, cetu adigi elit, sed do eiusmod a tempor incididt ut labore et. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco</p>
-													<ul class="event-time">
-														<li>
-															<i class="fa fa-map-marker"></i>
-															<span>Paathshaala Campus</span>
-														</li>
-														<li>
-															<i class="fa fa-clock-o"></i>
-															<span>09 Nov, 2016 @09:30 am</span>
-														</li>
-													</ul>
-												</div>
-												<a href="#" class="kopa-button-03">view detail</a>
-											</div>
-										</article>
-									</li>
-								</ul>
-							</div>
-						</div>
-					</div>
-				</section>
-				<section class="kopa-area kopa-area-14">
-					<div class="container">
-						<div class="row">
-							<div class="col-md-4 col-sm-12 col-xs-12">
-								<div class="custom-bg">
-									<div class="widget kopa-widget-engage">
-										<h3 class="widget-title style-04">ENGAGE</h3>
-										<div class="widget-content module-engage-01">
-											<ul>
-												<li>
-													<article class="entry-item">
-														<div class="entry-content">
-															<h4 class="entry-title">
-																<a href="#">Language School</a>
-															</h4>
-															<div class="entry-meta">
-																<p>
-																	by <a href="#">Admin</a>
-																	
-																	in <a href="#">Campus News</a>
-																</p>
-															</div>
-															<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard...</p>
-														</div>
-													</article>
-												</li>
-												<li>
-													<article class="entry-item">
-														<div class="entry-content">
-															<h4 class="entry-title">
-																<a href="#">Language School</a>
-															</h4>
-															<div class="entry-meta">
-																<p>
-																	by <a href="#">Admin</a>
-																	
-																	in <a href="#">Campus News</a>
-																</p>
-															</div>
-															<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard...</p>
-														</div>
-													</article>
-												</li>
-												<li>
-													<article class="entry-item">
-														<div class="entry-content">
-															<h4 class="entry-title">
-																<a href="#">Language School</a>
-															</h4>
-															<div class="entry-meta">
-																<p>
-																	by <a href="#">Admin</a>
-																	
-																	in <a href="#">Campus News</a>
-																</p>
-															</div>
-															<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard...</p>
-														</div>
-													</article>
-												</li>
-											</ul>
-										</div>
-									</div>
-									<div class="widget kopa-widget-links">
-										<h3 class="widget-title style-04">Key links</h3>
-										<div class="widget-content module-links-02">
-											<ul>
-												<li>
-													<a href="#">Future students</a>
-												</li>
-												<li>
-													<a href="#">Why Melbourne?</a>
-												</li>
-												<li>
-													<a href="#">Admissions, fees and applications</a>
-												</li>
-												<li>
-													<a href="#">International students</a>
-												</li>
-												<li>
-													<a href="#">Scholarships</a>
-												</li>
-												<li>
-													<a href="#">Online graduate courses</a>
-												</li>
-												<li>
-													<a href="#">Single subjects and short courses</a>
-												</li>
-												<li>
-													<a href="#">Online learning with Coursera</a>
-												</li>
-												<li>
-													<a href="#">Student services</a>
-												</li>
-												<li>
-													<a href="#">Faculties and graduate schools</a>
-												</li>
-											</ul>
-										</div>
-									</div>
-								</div>
-							</div>
-							<div class="col-md-8 col-sm-12 col-xs-12 has-more-widget">
-								<div class="widget kopa-widget-research">
-									<h3 class="widget-title style-04">research</h3>
-									<div class="widget-content module-research-01">
-										<h4>Research areas</h4>
-										<p>Every faculty and graduate school actively engages in research, with many affiliated with hospitals, other research entities, or one of our many cross-disciplinary research institutes.</p>
-										<ul class="list-has-style">
-											<li>Faculty and graduate school research areas</li>
-											<li>Research institutes</li>
-											<li>Research centres</li>
-											<li>Apply for graduate research</li>
-											<li>Graduate research scholarships</li>
-											<li>Information for graduate researchers</li>
-										</ul>
-										<ul class="gallery">
-											<li>
-												<a href="#"><img src="images/gallery/5.jpg" alt=""></a>
-												<span class="sticky-gallery fa fa-camera"></span>
-											</li>
-											<li>
-												<a href="#"><img src="images/gallery/6.jpg" alt=""></a>
-												<span class="sticky-gallery fa fa-play"></span>
-											</li>
-											<li>
-												<a href="#"><img src="images/gallery/7.jpg" alt=""></a>
-												<span class="sticky-gallery fa fa-headphones"></span>
-											</li>
-										</ul>
-									</div>
-								</div>
-								<div class="widget kopa-widget-study">
-									<h3 class="widget-title style-04">STUDY</h3>
-									<div class="widget-content module-study-01">
-										<ul>
-											<li>
-												<h4>Search undergraduate courses</h4>
-												<p>An undergraduate course is your first degree at university. Search here if you’re a secondary school student, or looking to start your first degree at university.</p>
-												<form>
-													<p>
-														<input type="text">
-														<button type="submit">
-															<i class="fa fa-search"></i>
-														</button>
-													</p>
-												</form>
-												<a href="#" class="browse">
-													<i class="fa fa-angle-right"></i>
-													Browse all undergraduate courses
-												</a>
-											</li>
-											<li>
-												<h4>Search graduate courses</h4>
-												<p>Our graduate courses are ideal if you’re looking to get a professional masters qualification, develop specialist knowledge or undertake graduate research.</p>
-												<form>
-													<p>
-														<input type="text">
-														<button type="submit">
-															<i class="fa fa-search"></i>
-														</button>
-													</p>
-												</form>
-												<a href="#" class="browse">
-													<i class="fa fa-angle-right"></i>
-													Browse all graduate courses
-												</a>
-											</li>
-										</ul>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</section>
-				<section class="kopa-area kopa-area-15 white-text-style">
+				
+				<section class="kopa-area white-black-style">
 					<div class="container">
 						<div class="widget kopa-widget-engage">
 							<div class="widget-content module-engage-02">
 								<article class="kopa-engage-represent">
 									<div class="kopa-engage-thumb">
 										<a href="#">
-											<img src="images/engage/1.jpg" alt="">
-											<span class="fa fa-play"></span>
+											<img src="images/courses/our-institutes.jpg" alt="">
 										</a>
 										<span class="l1"></span>
 										<span class="l2"></span>
@@ -386,91 +99,75 @@
 									</div>
 									<div class="kopa-engage-content">
 										<header class="widget-header style-02">
-											<h3 class="widget-title">media</h3>
-											<h4>This is My Paathshaala!</h4>
+											<h3 class="widget-title">Our</h3>
+											<h4>Educational Institutions</h4>
 										</header>
-										<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College </p>
-										<a href="#">Apply NOW</a>
+										<p>Matoshri  Education Society is one of the private education institutions in Mehkar Dist. Buldhana, India. It was founded in 1997. At present the society runs over 05 institutions including colleges,& CBSE school. Educational Institutions run by Matoshri Education Society, Mehkar.</p>
+										<!-- <a href="#">Apply NOW</a> -->
 									</div>
 								</article>
 								<div class="kopa-engage-gallery">
 									<div class="row">
 										<div class="col-md-3 col-sm-6 col-xs-12">
-											<article class="entry-item">
-												<div class="entry-thumb">
+											<article class="entry-item text-center">
+												<!-- <div class="entry-thumb">
 													<a href="#">
 														<img src="images/engage/2.jpg" alt="">
-														<span class="fa fa-headphones"></span>
 													</a>
-												</div>
+												</div> -->
 												<div class="entry-content">
 													<h4 class="entry-title">
-														<a href="#">Research engagement</a>
+														<a href="#">College of Pharmacy, Khandala, Mehkar.</a>
 													</h4>
-													<div class="entry-meta">
-														<a href="#">by Admin</a>
-														<a href="#">1 januar 2016</a>
-													</div>
+													
 													<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodiu tempor incididunt ut </p>
 												</div>
 											</article>
 										</div>
 										<div class="col-md-3 col-sm-6 col-xs-12">
-											<article class="entry-item">
-												<div class="entry-thumb">
+											<article class="entry-item text-center">
+												<!-- <div class="entry-thumb">
 													<a href="#">
 														<img src="images/engage/3.jpg" alt="">
-														<span class="fa fa-volume-up"></span>
 													</a>
-												</div>
+												</div> -->
 												<div class="entry-content">
 													<h4 class="entry-title">
-														<a href="#">Teaching and learning</a>
+														<a href="#">Satyajeet International English School (CBSE), Mehkar</a>
 													</h4>
-													<div class="entry-meta">
-														<a href="#">by Admin</a>
-														<a href="#">1 januar 2016</a>
-													</div>
+													
 													<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodiu tempor incididunt ut </p>
 												</div>
 											</article>
 										</div>
 										<div class="col-md-3 col-sm-6 col-xs-12">
-											<article class="entry-item">
-												<div class="entry-thumb">
+											<article class="entry-item text-center">
+												<!-- <div class="entry-thumb">
 													<a href="#">
 														<img src="images/engage/4.jpg" alt="">
-														<span class="fa fa-camera"></span>
 													</a>
-												</div>
+												</div> -->
 												<div class="entry-content">
 													<h4 class="entry-title">
-														<a href="#">Cultural engagement</a>
+														<a href="#">Satyajeet B.Ed. College, Mehkar</a>
 													</h4>
-													<div class="entry-meta">
-														<a href="#">by Admin</a>
-														<a href="#">1 januar 2016</a>
-													</div>
+													
 													<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodiu tempor incididunt ut </p>
 												</div>
 											</article>
 										</div>
 										<div class="col-md-3 col-sm-6 col-xs-12">
-											<article class="entry-item">
-												<div class="entry-thumb">
+											<article class="entry-item text-center">
+												<!-- <div class="entry-thumb">
 													<a href="#">
 														<img src="images/engage/5.jpg" alt="">
-														<span class="fa fa-photo"></span>
 													</a>
-												</div>
+												</div> -->
 												<div class="entry-content">
 													<h4 class="entry-title">
-														<a href="#">International engagement</a>
+														<a href="#">Satyajeet D.Ed. College, Mehkar</a>
 													</h4>
-													<div class="entry-meta">
-														<a href="#">by Admin</a>
-														<a href="#">1 januar 2016</a>
-													</div>
+													
 													<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodiu tempor incididunt ut </p>
 												</div>
 											</article>
@@ -481,7 +178,7 @@
 						</div>
 					</div>
 				</section>
-				<section class="kopa-area">
+				<?php /*?><section class="kopa-area">
 					<div class="container">
 						<div class="widget kopa-widget-testimonials">
 							<header class="widget-header style-01">
@@ -534,7 +231,7 @@
 							</div>
 						</div>
 					</div>
-				</section>
+				</section><?php */?>
 			</div>
 			
 			<?php include "footer.php";?>

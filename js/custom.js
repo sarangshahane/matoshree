@@ -24,7 +24,25 @@
 **/
 "use strict";
 jQuery(document).ready(function(){
-
+	
+	jQuery(".about-matoshri .left-nav li").on("click", function (e){
+		e.preventDefault();
+		var $this	= $(this),
+			wrap 	= $(".right-content"),
+			tab	 	= $this.attr("data-tab");
+			
+			$this.addClass('active');
+			$this.siblings().removeClass('active');
+			
+            if( 'tab-1' == tab ){
+                jQuery('.'+tab).css('display', 'block');
+                jQuery('.tab-2').css('display', 'none');
+            }else{
+                jQuery('.'+tab).css('display', 'block');
+                jQuery('.tab-1').css('display', 'none');
+            }
+		
+	});
     
     /*1. Main slider*/
 	if (jQuery('.kopa-widget-slider').length) {
@@ -447,6 +465,12 @@ jQuery(document).ready(function(){
                 jQuery("#seconds-02").text(seconds);
             }
         }
+    }
+
+    // Remove 
+    if(jQuery('.kopa-widget-slider').length){
+        jQuery('.kopa-widget-slider').find('.sp-arrows').remove();
+        jQuery('.kopa-widget-slider').find('.time-slider').remove();
     }
 
 });

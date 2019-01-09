@@ -50,6 +50,7 @@
 									<a href="#">Join this event Now!</a>
 								</div>
 							</div>
+
 							<div class="row">
 								
 								<div class="col-md-8 col-sm-12 col-xs-12">

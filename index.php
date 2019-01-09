@@ -23,7 +23,7 @@
 		                                <img class="sp-image sp-image-bg" src="img/icon/blank.gif" data-src="images/main-slider/1.jpg" data-retina="images/main-slider/1.jpg" alt="" />
 		                                <p class="sp-layer sp-txt-1" data-horizontal="300" data-vertical="350" data-show-transition="right" data-hide-transition="left" data-show-delay="400" data-hide-delay="200" data-show-duration="1000" data-hide-duration="1000">EDUCATION SOCIETY</p>
 		                                <p class="sp-layer sp-txt-2" data-horizontal="420" data-vertical="430" data-show-transition="up" data-hide-transition="down" data-show-delay="800" data-hide-delay="200" data-show-duration="1000" data-hide-duration="1000">Education is learning what you didn't even know you didn't know.</p>
-		                                <p class="sp-layer sp-txt-3" data-horizontal="520" data-vertical="300" data-show-transition="left" data-hide-transition="right" data-show-delay="400" data-hide-delay="200" data-show-duration="1000" data-hide-duration="1000">MATOSHREE</p>
+		                                <p class="sp-layer sp-txt-3" data-horizontal="520" data-vertical="300" data-show-transition="left" data-hide-transition="right" data-show-delay="400" data-hide-delay="200" data-show-duration="1000" data-hide-duration="1000">MATOSHRI</p>
 		                            </div>
 		                            <!-- sp-slide -->
 		                        </div>
@@ -39,7 +39,7 @@
 								<div class="widget kopa-widget-welcome style-01">
 									<header class="widget-header style-02">
 										<h3 class="widget-title">Wellcome to</h3>
-										<h4>matoshree education society</h4>
+										<h4>matoshri education society</h4>
 									</header>
 									<div class="widget-content module-welcome-01">
 										<p>

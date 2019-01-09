@@ -88,11 +88,11 @@ tr:nth-child(even) {
 								</div>
 								<div class="right-title">
 								<h2><b>Help For Registration</b></h2>
-								&nbsp&nbsp&nbsp<p>&nbspVisit to Maharashtra State Pharmacy Council,<br>Mumbai :http://www.mspcindia.org/</p>
+								&nbsp&nbsp&nbsp<p>&nbspVisit to Maharashtra State Pharmacy Council,<br>Mumbai : http://www.mspcindia.org </p>
 								</div>
 								
 								<div class="right-title">
-									<a href="http://www.mspcindia.org/" target="_blank">Visit to MSPC Mumbai </a>
+									<a href="http://www.mspcindia.org">Visit to MSPC, Mumbai</a>
 								</div>
 						</div>
 							<div class="row">
@@ -432,6 +432,10 @@ tr:nth-child(even) {
 
 								<div class="col-md-4 col-sm-12 col-xs-12">
 									<div class="right-content">
+										<div>
+												<a href="img/sif2019.pdf"><h4><center>SIF</center> </h4></a>
+										</div>
+
 										<div class="event-info">
 										<h4>Documents For Registration</h4>
 											<ul>

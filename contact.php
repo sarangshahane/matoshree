@@ -133,7 +133,6 @@
 												<i class="fa fa-envelope"></i>
 												<div class="content">
 													<a href="#">principalscop1@gmail.com</a>
-													<a href="#">info@matoshreee.com</a>
 												</div>
 											</div>
 										</div>

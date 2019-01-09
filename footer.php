@@ -1,4 +1,4 @@
-<div class="bottom-sidebar style-02 white-text-style">
+s<div class="bottom-sidebar style-02 white-text-style">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-4 col-sm-6 col-xs-12">
@@ -68,7 +68,7 @@
 <footer class="kopa-footer style-02">
 	<div class="container">
 		<div class="pull-left">
-			<p>Copyright © 2018 - 2019 <a href="#">Matoshree Education Society</a>. All Rights Reserved.</p>
+			<p>Copyright © 2018 - 2019 <a href="#">Matoshri Education Society</a>. All Rights Reserved.</p>
 		</div>
 		<div class="pull-right">
 			<ul>

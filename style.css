@@ -1300,7 +1300,7 @@ ul.list-has-style li:before {
 
 .kopa-header-02 .top-header .kopa-any-question span {
   display: inline-block;
-  margin: 0 15px;
+  margin: 0 7px;
 }
 
 .kopa-header-02 .top-header .right-top-header {
@@ -13542,13 +13542,13 @@ aside.sidebar .kopa-widget-advanced_search .widget-title:before {
   .kopa-header-01 .kopa-logo {
     margin: 0;
   }
-  .kopa-header-02 .top-header .kopa-any-question {
+/*  .kopa-header-02 .top-header .kopa-any-question {
     display: none;
-  }
-  .kopa-header-02 .top-header .right-top-header {
+  }*/
+/*  .kopa-header-02 .top-header .right-top-header {
     float: none;
     text-align: center;
-  }
+  }*/
   .kopa-header-02 .top-header .right-top-header > *:first-child {
     border: none;
   }
@@ -13563,6 +13563,7 @@ aside.sidebar .kopa-widget-advanced_search .widget-title:before {
     position: absolute;
     top: 50%;
     right: 10px;
+    font-size: 20px;
     transform: translateY(-50%);
     -webkit-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
@@ -13571,7 +13572,7 @@ aside.sidebar .kopa-widget-advanced_search .widget-title:before {
     margin: 0;
   }
   .kopa-header-02 .bottom-header.style-02 .kopa-logo, .kopa-header-02 .bottom-header.widget-title.style-03 .kopa-logo {
-    margin: 20px 0;
+    margin: 0px 0;
   }
   .kopa-header-03 {
     height: 65px;

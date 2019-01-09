@@ -14,6 +14,7 @@
 						<li class="<?php if( isset( $pageTitle ) && $pageTitle == "Home" ){ ?>current-menu-item <?php } ?>">
 							<a href="index.php">Home</a>
 						</li>
+						
 						<li class="<?php if( isset( $pageTitle ) && $pageTitle == "About" || $pageTitle == "Professors" ){ ?>current-menu-item <?php } ?>">
 							<a href="about.php">About</a>
 							<ul>
@@ -28,9 +29,7 @@
 								<li><a href="dpharm.php">D-Pharm</a></li>
 							</ul>
 						</li>
-
-					<!--	<li><a href="events.php">Events</a></li> 
-						<li><a href="#">Gallery</a></li> -->
+						
 						<li class="<?php if( isset( $pageTitle ) && $pageTitle == "Contact" ){ ?>current-menu-item <?php } ?>" >
 							<a href="contact.php">Contact</a>
 						</li>
@@ -59,59 +58,24 @@
 		    </ul>
 		</div>
         <ul class="kopa-menu-click">
-            <li class="menu-item-has-children"><a href="#">home</a>
-                <ul>
-                    <li><a href="index-1.php">home 1</a></li>
-                    <li><a href="index-2.php">home 2</a></li>
-                    <li><a href="index-3.php">home 3</a></li>
-                    <li><a href="index-4.php">home 4</a></li>
-                </ul>
+            <li ><a href="index.php">Home</a></li> <!-- class="menu-item-has-children" -->
+            <li class="menu-item-has-children">
+            	<a href="#">About</a>
+				<ul>
+					<li><a href="about.php">About US</a></li>
+					<li><a href="professors.php">Professors</a></li>
+				</ul>
             </li>
             <li class="menu-item-has-children">
-            	<a href="#">About us</a>
-            	<ul>
-                    <li><a href="about-1.php">about 1</a></li>
-                    <li><a href="about-2.php">about 2</a></li>
-                </ul>
-            </li>
-            <li class="menu-item-has-children">
-				<a href="#">Events</a>
+				<a href="#">Academics</a>
 				<ul>
-					<li><a href="allevents.php">All Events</a></li>
-					<li><a href="event-calendar.php">Event Calendar</a></li>
-					<li><a href="event-detail.php">Event Detail</a></li>
-				</ul>
-			</li>
-            <li class="menu-item-has-children">
-				<a href="#">Teachers</a>
-				<ul>
-					<li><a href="professor.php">Professor</a></li>
-					<li><a href="professor-detail.php">Professor Detail</a></li>
-				</ul>
-			</li>
-            <li class="menu-item-has-children">
-				<a href="all-courses.php">Course
-					
-				</a>
-				<ul>
-					<li><a href="all-courses.php">All Course</a></li>
-					<li><a href="courses-list-2.php">Course list 2</a></li>
-					<li><a href="courses-list-3.php">Course list 3</a></li>
-					<li><a href="courses-category.php">Course category</a></li>
-				</ul>
-			</li>
-            <li class="menu-item-has-children">
-				<a href="#">blog</a>
-				<ul>
-					<li><a href="blog.php">Blog 1</a></li>
-					<li><a href="blog-2.php">Blog 2</a></li>
-					<li><a href="single-blog.php">Single blog</a></li>
+					<li><a href="dpharm.php">D-Pharm</a></li>
 				</ul>
 			</li>
             <li><a href="contact.php">Contact</a></li>
         </ul>
     </div>
-    <form>
+    <!-- <form>
     	<button type="submit" class="btn"><i class="fa fa-search"></i></button>
         <input type="text" placeholder="Search courses">
     </form>
@@ -131,5 +95,5 @@
 	        	</li>
 	        </ul>
     	</div>
-    </div>
+    </div> -->
 </div>

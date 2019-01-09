@@ -61,7 +61,7 @@
 										<article class="entry-item ">
 											<div class="entry-thumb">
 												<a href="#">
-													<img src="images/testimonial/6.jpg" alt="">
+													<img src="images/teachers/shyam-umalkar.jpg" alt="">
 												</a>
 											</div>
 											<div class="entry-content">

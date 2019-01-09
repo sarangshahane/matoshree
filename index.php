@@ -1,3 +1,6 @@
+<?php 	
+		$pageTitle = "Home";
+?>
 <!DOCTYPE html>
 <html lang="en">
 	<head>

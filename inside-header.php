@@ -37,10 +37,10 @@
 							<nav class="kopa-main-menu style-02">
 							
 								<ul>
-									<li class="current-menu-item">
+									<li class="<?php if( isset( $pageTitle ) && $pageTitle == "Home" ){ ?>current-menu-item <?php } ?>">
 										<a href="index.php">Home</a>
 									</li>
-									<li>
+									<li class="<?php if( isset( $pageTitle ) && $pageTitle == "About" || $pageTitle == "Professors" ){ ?>current-menu-item <?php } ?>">
 										<a href="about.php">About</a>
 										<ul>
 											<li><a href="about.php">About US</a></li>
@@ -48,7 +48,7 @@
 										</ul>
 									</li>
 									
-									<li>
+									<li class="<?php if( isset( $pageTitle ) && $pageTitle == "Dpharm" ){ ?>current-menu-item <?php } ?>">
 										<a href="#">Academics</a>
 										<ul>
 											<li><a href="dpharm.php">D-Pharm</a></li>
@@ -57,7 +57,7 @@
 
 								<!--	<li><a href="events.php">Events</a></li> 
 									<li><a href="#">Gallery</a></li> -->
-									<li><a href="contact.php">Contact</a></li>
+									<li class="<?php if( isset( $pageTitle ) && $pageTitle == "Contact" ){ ?>current-menu-item <?php } ?>" ><a href="contact.php">Contact</a></li>
 									
 								</ul>
 							</nav>

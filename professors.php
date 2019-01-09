@@ -1,3 +1,6 @@
+<?php 	
+		$pageTitle = "Professors";
+?>
 <!DOCTYPE html>
 <html lang="en">
 	<head>

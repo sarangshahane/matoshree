@@ -1,3 +1,6 @@
+<?php 	
+		$pageTitle = "Contact";
+?>
 <!DOCTYPE html>
 <html lang="en">
 	<head>

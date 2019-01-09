@@ -10256,8 +10256,8 @@ aside.sidebar .kopa-widget-advanced_search .widget-title:before {
 }
 
 .single-event .title-event a {
-  font-size: 15px;
-  padding: 15px 50px;
+  font-size: 12px;
+  padding: 7px 10px;
 }
 
 .single-event .title-event .meta p {
@@ -10287,11 +10287,11 @@ aside.sidebar .kopa-widget-advanced_search .widget-title:before {
   width: 40%;
   float: right;
   text-align: right;
-  margin-top: 15px;
+  /*margin-top: 15px;*/
 }
 
 .single-event > .row > div:last-child {
-  margin-top: -50px;
+  /*margin-top: -50px;*/
 }
 
 .single-event .left-content .event-image {
@@ -10366,7 +10366,7 @@ aside.sidebar .kopa-widget-advanced_search .widget-title:before {
 }
 
 .single-event .right-content > * {
-  margin-top: 50px;
+  margin-bottom: 20px;
 }
 
 .single-event .event-info h4:before {

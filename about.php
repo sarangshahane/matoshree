@@ -1,3 +1,6 @@
+<?php 	
+		$pageTitle = "About";
+?>
 <!DOCTYPE html>
 <html lang="en">
 	<head>
